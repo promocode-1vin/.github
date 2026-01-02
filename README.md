@@ -17,11 +17,12 @@
 
 Нажмите кнопку ниже — промокод автоматически подставится в форму регистрации на сайте:
 
-<a href="https://cash500.vercel.app/" target="_blank" rel="noopener noreferrer">
+a href="https://cash500.vercel.app/" target="_blank" rel="noopener noreferrer">
   <img
-    src="https://img.shields.io/badge/🎁_Активировать_промокод_1win-ff9800?style=for-the-badge"
+    src="https://img.shields.io/badge/🎁_АКТИВИРОВАТЬ_ПРОМОКОД_1WIN-ff007f?style=for-the-badge&labelColor=111827"
     alt="Активировать промокод 1win"
-    width="480"
+    width="520"
+    style="display:block; margin:24px auto;"
   />
 </a>
 
