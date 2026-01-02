@@ -19,9 +19,9 @@
 
 <a href="https://cash500.vercel.app/" target="_blank" rel="noopener noreferrer">
   <img
-    src="https://img.shields.io/badge/🎁_Активировать_промокод_1win-blue?style=for-the-badge"
+    src="https://img.shields.io/badge/🎁_Активировать_промокод_1win-ff9800?style=for-the-badge"
     alt="Активировать промокод 1win"
-    width="420"
+    width="480"
   />
 </a>
 
